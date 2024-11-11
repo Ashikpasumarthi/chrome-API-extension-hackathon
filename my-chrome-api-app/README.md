@@ -1,3 +1,15 @@
+https://chatgpt.com/share/6731b20e-1bb8-8009-95be-61530bca98dc  - useful setup
+https://github.com/orgs/community/discussions/75551  useful page for github
+https://chatgpt.com/c/672daca9-3d4c-8009-a526-85b7fe710bab   - chrome hackathon detailed understanding
+   
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
