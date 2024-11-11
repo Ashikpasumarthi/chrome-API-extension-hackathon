@@ -7,7 +7,7 @@ https://github.com/orgs/community/discussions/75551
 #Chrome hackathon detailed understanding
 https://chatgpt.com/c/672daca9-3d4c-8009-a526-85b7fe710bab   
    
-
+No, empty folders will not be committed to a Git repository by default. This is because Git only tracks files, not empty directories. If you want to include an empty folder, you typically need to add a placeholder file in the folder, like a .gitkeep.
 
 
 
