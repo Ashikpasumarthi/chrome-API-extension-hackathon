@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    height: 3rem;
+    font-family: 'Roboto', sans-serif;
+  font-size: 28px; 
+  font-weight: 500;
+  color: #5f6368;
+  letter-spacing: 1px; 
+}
